@@ -3,5 +3,5 @@
 module.exports = fqtext;
 
 function fqtext() {
-    // TODO
+    console.log(222)
 }
